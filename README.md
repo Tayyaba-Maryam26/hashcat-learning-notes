@@ -80,7 +80,7 @@ It does not need to contact the original website to test candidates against an a
 
 ### 📸 Poster 1 — What Is Hashcat?
 
-![What is Hashcat](1.png)
+![What is Hashcat](1.jfif)
 
 ---
 
@@ -125,7 +125,7 @@ Hashcat helps security professionals test, recover, and evaluate passwords so th
 
 ### 📸 Poster 2 — Why Do We Use Hashcat?
 
-![Why Do We Use Hashcat](2.png)
+![Why Do We Use Hashcat](2.jfif)
 
 ---
 
@@ -207,7 +207,7 @@ Success depends on factors such as password strength, candidate coverage, hash a
 
 ### 📸 Poster 3 — How Does Hashcat Work?
 
-![How Does Hashcat Work](3.png)
+![How Does Hashcat Work](3.jfif)
 
 ---
 
@@ -809,7 +809,7 @@ Hashcat combines hardware acceleration, flexible candidate generation, broad has
 
 ---
 
-![Benefits of Hashcat](4.png)
+![Benefits of Hashcat](4.jfif)
 
 # 11. Limitations of Hashcat
 
@@ -857,7 +857,7 @@ Testing password hashes without authorization can violate privacy, organizationa
 
 Always use Hashcat responsibly and within an authorized environment.
 
-![Limitations of Hashcat](5.png)
+![Limitations of Hashcat](5.jfif)
 ---
 
 # 12. Real-World Applications of Hashcat
@@ -894,7 +894,7 @@ Hashcat does not directly log in to websites, bypass authentication systems, or 
 
 It tests available hash data offline.
 
-![Real world use cases of Hashcat](6.png)
+![Real world use cases of Hashcat](6.jfif)
 ---
 
 # 13. Hashcat Learning and Practice Roadmap
